@@ -10,7 +10,7 @@ Clustering is a type of unsupervised learning algorithm that groups data points 
 
 The K-Means clustering algorithm is an iterative process where the algorithm minimises the distance of the data point from the average data point in the cluster.
 
-## Hiearchical Clustering
+## Hierarchical Clustering
 
 Hierarchical clustering algorithms creates hierarchy of clustered data points. It minimises the number of clusters by merging those closest to one another using a distance measurement such as Euclidean distance for numeric clusters or Hamming distance for text.
 
