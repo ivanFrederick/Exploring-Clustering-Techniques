@@ -60,7 +60,7 @@ Cluster five: clients earn low income and have low spending. This segment can be
 
 Having a better understanding of the customers segments, a company could make better and more informed decisions. An example, there are customers with high annual income but low spending score. Again, a more strategic and targeted marketing approach could lift their interest and improve advertising/marketing efficiency.
 
-### Hiearchical Clustering
+### Hierarchical Clustering
 
 ![](Images/dendogram.png)
 
