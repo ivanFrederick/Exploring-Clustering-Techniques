@@ -46,7 +46,7 @@ The optimal number of clusters for this dataset is 5 clusters, since the elbow i
 
 ![](Images/kmeans.gif)
 
-From the K-means clustering observation, it can be interpret that:
+From the K-means clustering observation, it can be interpreted that:
 
 Cluster one: clients earn high income and spend a lot of money at the mall. This segment can be called main potential clients.
 
