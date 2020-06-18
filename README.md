@@ -38,7 +38,7 @@ Similar to men, we see that younger females have a higher spending score. Again,
 
 ### K-Means
 
-We now apply K-Means Clustering to identify clusters within the dataset. Through this, we can start to gather customer segments that the user of the data can utilise. For example, through customer cluster identification, the user (let us say Harrods), can begin more efficient targetted advertising or running promotions to effectively target specific clusters. Note, we also use the elbow method to find the optimal number of clusters. This may not be a viable option in cases where the elbow bend is not clear.
+We now apply K-Means Clustering to identify clusters within the dataset. Through this, we can start identify customer segments. For example, through customer cluster identification, the user (let us say Harrods), can begin more efficient targetted advertising or running promotions to effectively target specific clusters. Note, we also use the elbow method to find the optimal number of clusters. This may not be a viable option in cases where the elbow bend is not clear.
 
 ![](Images/elbow.png)
 
