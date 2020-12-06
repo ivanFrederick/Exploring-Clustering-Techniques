@@ -64,7 +64,7 @@ Having a better understanding of the customers segments, a company could make be
 
 ![](Images/dendogram.png)
 
-We use the dendrogram to find the optimal number of clusters via euclidean distant between the two, meaning for each pair of customers we take the two coordinates annual income and spending score and we compute the euclidean distance between the two based on this coordinate.
+We use the dendrogram to find the optimal number of clusters via euclidean distance between the two, meaning for each pair of customers we take the two coordinates annual income and spending score and we compute the euclidean distance between the two based on this coordinate.
 
 ![](Images/hiearchical.gif)
 
